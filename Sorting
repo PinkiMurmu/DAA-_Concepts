@@ -1,0 +1,22 @@
+Q. What is Sorting?
+
+Sorting refers to rearrangement of a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order 
+of elements in the respective data structure. Sorting means reordering of all the elements either in ascending or in descending order.
+
+Q. Applications of Sorting Algorithms:
+
+Searching Algorithms
+Data management
+Database optimization
+Machine learning
+Data Analysis
+Operating Systems
+
+Q. Sorting Algorithms:
+
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
