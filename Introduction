@@ -5,3 +5,7 @@ Design and Analysis of Algorithms is a fundamental aspect of computer science th
 Q. What is Algorithm?
 
 The word Algorithm means ” A set of finite rules or instructions to be followed in calculations or other problem-solving operations ” Or ” A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations”.
+
+Q. Why algorithm and its analysis is important?
+
+In the analysis of the algorithm, it generally focused on CPU (time) usage, Memory usage, Disk usage, and Network usage. All are important, but the most concern is about the CPU time.
