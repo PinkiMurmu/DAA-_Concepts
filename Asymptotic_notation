@@ -1,0 +1,10 @@
+Big O notation is a powerful tool used in computer science to describe the time complexity or space complexity of algorithms. It provides a standardized way to compare the efficiency of different algorithms in terms of their worst-case performance. Understanding Big O notation is essential for analyzing and designing efficient algorithms.
+
+2. Big Omega notation (Ω) : 
+
+It is define as lower bound and lower bound on an algorithm is the least amount of time required ( the most efficient way possible, in other words best case).
+Just like Onotation provide an asymptotic upper bound, Ωnotation provides asymptotic lower bound. 
+
+3. Big Theta notation (Θ) : 
+
+It is define as tightest bound and tightest bound is the best of all the worst case times that the algorithm can take.
